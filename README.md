@@ -10,6 +10,13 @@ A powerful Chrome Extension for extracting, managing, and exporting data from Sa
 - **Dashboard:** A user-friendly popup dashboard to view and manage extracted records.
 - **Search & Filter:** Real-time search functionality to find specific records instantly.
 - **Persistent Storage:** Data is saved locally in the browser, so you don't lose it when you close the popup.
+- 
+<img width="956" height="503" alt="Screenshot 2026-01-16 174434" src="https://github.com/user-attachments/assets/ce8d00ef-38b2-41a6-be74-a0967e1fc822" />
+<img width="958" height="505" alt="Screenshot 2026-01-16 174353" src="https://github.com/user-attachments/assets/7102c998-8c5a-4c16-a2ee-d1bab7a3fd3b" />
+<img width="959" height="504" alt="Screenshot 2026-01-16 174051" src="https://github.com/user-attachments/assets/8e7ec351-089e-4ca5-842a-fd88f7b10454" />
+<img width="959" height="539" alt="Screenshot 2026-01-16 174018" src="https://github.com/user-attachments/assets/9a69a08f-c2fb-4348-8a21-f5d799f9e826" />
+<img width="948" height="539" alt="Screenshot 2026-01-16 173934" src="https://github.com/user-attachments/assets/479aa9b9-7599-4a84-9107-554ef23744c8" />
+
 
 ## 🛠️ Installation & Usage
 
@@ -33,3 +40,4 @@ A powerful Chrome Extension for extracting, managing, and exporting data from Sa
 - **Frontend:** React, TypeScript, Tailwind CSS
 - **Build Tool:** Vite
 - **Icons:** Lucide React
+
