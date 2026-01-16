@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "name": "Salesforce CRM Data Extractor",
+    "version": "1.0.0",
+    "description": "Extracts data from Salesforce CRM objects",
+    "permissions": [
+        "activeTab",
+        "storage",
+        "scripting"
+    ],
+    "action": {
+        "default_popup": "index.html"
+    },
+    "background": {
+        "service_worker": "assets/background.js",
+        "type": "module"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.salesforce.com/*",
+                "https://*.force.com/*"
+            ],
+            "js": [
+                "assets/content.js"
+            ]
+        }
+    ]
+}
