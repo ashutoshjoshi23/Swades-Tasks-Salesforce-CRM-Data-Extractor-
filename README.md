@@ -1,6 +1,7 @@
 # Salesforce CRM Extractor
 
 A powerful Chrome Extension for extracting, managing, and exporting data from Salesforce CRM.
+Tutorial Link: **https://drive.google.com/file/d/1kwxP8Bv9mjt2BZD6YCuAhtkENu0OZ1Mu/view?usp=sharing**
 
 ## 🚀 Features
 
@@ -41,6 +42,7 @@ A powerful Chrome Extension for extracting, managing, and exporting data from Sa
 - **Frontend:** React, TypeScript, Tailwind CSS
 - **Build Tool:** Vite
 - **Icons:** Lucide React
+
 
 
 
