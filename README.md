@@ -11,11 +11,12 @@ A powerful Chrome Extension for extracting, managing, and exporting data from Sa
 - **Search & Filter:** Real-time search functionality to find specific records instantly.
 - **Persistent Storage:** Data is saved locally in the browser, so you don't lose it when you close the popup.
 - 
-<img width="956" height="503" alt="Screenshot 2026-01-16 174434" src="https://github.com/user-attachments/assets/ce8d00ef-38b2-41a6-be74-a0967e1fc822" />
-<img width="958" height="505" alt="Screenshot 2026-01-16 174353" src="https://github.com/user-attachments/assets/7102c998-8c5a-4c16-a2ee-d1bab7a3fd3b" />
-<img width="959" height="504" alt="Screenshot 2026-01-16 174051" src="https://github.com/user-attachments/assets/8e7ec351-089e-4ca5-842a-fd88f7b10454" />
-<img width="959" height="539" alt="Screenshot 2026-01-16 174018" src="https://github.com/user-attachments/assets/9a69a08f-c2fb-4348-8a21-f5d799f9e826" />
-<img width="948" height="539" alt="Screenshot 2026-01-16 173934" src="https://github.com/user-attachments/assets/479aa9b9-7599-4a84-9107-554ef23744c8" />
+<img width="956" height="503" alt="Screenshot 2026-01-16 174434" src="https://github.com/user-attachments/assets/5206ef78-5e3b-4a97-84cd-f40203194ccf" />
+<img width="958" height="505" alt="Screenshot 2026-01-16 174353" src="https://github.com/user-attachments/assets/3a44e1ac-0802-40b6-bc54-4c65434c41ed" />
+<img width="959" height="504" alt="Screenshot 2026-01-16 174051" src="https://github.com/user-attachments/assets/4f799f93-2482-4070-8952-e5950ec2beb3" />
+<img width="959" height="508" alt="Screenshot 2026-01-16 174018" src="https://github.com/user-attachments/assets/a4d0274d-a68c-4c08-a78c-6ba2e8441030" />
+<img width="948" height="504" alt="Screenshot 2026-01-16 173934" src="https://github.com/user-attachments/assets/a40c335f-4763-4ef6-9576-96e298546992" />
+
 
 
 ## 🛠️ Installation & Usage
@@ -40,4 +41,5 @@ A powerful Chrome Extension for extracting, managing, and exporting data from Sa
 - **Frontend:** React, TypeScript, Tailwind CSS
 - **Build Tool:** Vite
 - **Icons:** Lucide React
+
 
